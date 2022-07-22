@@ -1,0 +1,4 @@
+servidor=localhost
+database=ifspsga
+usuario=root
+senha=
